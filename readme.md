@@ -9,4 +9,4 @@
 
 # How to run
 1. pip install -r requirements.txt
-2. python sqs_mongo_to_s3_service.py
+2. python script.py
